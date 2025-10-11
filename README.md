@@ -17,3 +17,4 @@ print("Press Ctrl+C to trigger the custom SIGINT handler.")
 while True:
     print("Running...")
     time.sleep(1)
+print('success')
